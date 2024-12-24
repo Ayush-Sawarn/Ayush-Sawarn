@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sawarn-Ayush, 2nd Year Data Science student at IIT Mandi<br>
+👋 Hi, I’m @Ayush-Sawarn, 2nd Year Data Science student at IIT Mandi<br>
 🏠 I currently live in Delhi<br>
 👀 I’m interested in Blockchain and want to explore more into Web3<br>
 
