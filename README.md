@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Ayush-Sawarn, 2nd Year Data Science student at IIT Mandi<br>
 🏠 I currently live in Delhi<br>
-👀 I’m interested in Blockchain and want to explore more into Web3<br>
+👀 My domain of interest is in Blockchain and want to explore more into Web3<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sawarnayush366/profilecard/?igsh=MXQ4bDBydmN4Ync5cw%3D%3D) 
