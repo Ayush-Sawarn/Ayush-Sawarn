@@ -1,7 +1,9 @@
-# 💫 About Me:
-👋 Hi, I’m @Ayush-Sawarn, 2nd Year Data Science student at IIT Mandi<br>
-🏠 I currently live in Delhi<br>
-👀 My domain of interest is in Blockchain and want to explore more into Web3<br>
+## 💫 About Me  
+👋 Hi, I’m **Ayush Sawarn**, a 2nd-year **B.Tech Data Science** student at **IIT Mandi**.  
+🏠 Currently based in **Delhi, India**.  
+🔍 I’m passionate about cutting-edge technologies, with a keen interest in **Web3**, **Blockchain**, and **Natural Language Processing (NLP)**.  
+🚀 Always excited to explore and build in the decentralized tech space and push the boundaries of AI-driven innovation.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sawarnayush366/profilecard/?igsh=MXQ4bDBydmN4Ync5cw%3D%3D) 
@@ -16,11 +18,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Move](https://img.shields.io/badge/Move-6E44FF?style=for-the-badge&logo=https://pontemnetwork.gallerycdn.vsassets.io/extensions/pontemnetwork/move-language/0.5.0/1624039308768/Microsoft.VisualStudio.Services.Icons.Default&logoColor=white)
+
+
+
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,6 +44,7 @@
 
 
 ### Others
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
