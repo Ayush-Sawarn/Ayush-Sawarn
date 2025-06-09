@@ -1,5 +1,5 @@
 ## 💫 About Me  
-👋 Hi, I’m **Ayush Sawarn**, a 2nd-year **B.Tech Data Science** student at **IIT Mandi**.  
+👋 Hi, I’m **Ayush Sawarn**, a 3rd-year **B.Tech Data Science** student at **IIT Mandi**.  
 🏠 Currently based in **Delhi, India**.  
 🔍 I’m passionate about cutting-edge technologies, with a keen interest in **Web3**, **Blockchain**, and **Natural Language Processing (NLP)**.  
 🚀 Always excited to explore and build in the decentralized tech space and push the boundaries of AI-driven innovation.
